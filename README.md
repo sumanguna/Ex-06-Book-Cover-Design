@@ -19,7 +19,8 @@ Write down the code for book cover using HTML and CSS.
 Add images and other contents using CSS record a screenshot of it.
 
 # Code:
-<!DOCTYPE html>
+
+  <!DOCTYPE html>
 <html lang="en">
     <head>
          <meta name="viewport" 
@@ -35,7 +36,7 @@ Add images and other contents using CSS record a screenshot of it.
             margin-right: auto;
             padding: 20px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            background-image: url(/static/images/6.jpg);
+            background-image: url(c:\Users\admin\Downloads\Web-Development0-750x500.jpg);
             background-size: cover;
         }
             
@@ -118,13 +119,13 @@ Add images and other contents using CSS record a screenshot of it.
                 Develop future-proof responsive websites using the latest HTML5 and CSS Techniques
             </div>
             <div class="photo">
-                <img src="/static/images/kar.jpg" width="130" height="145" alt="">
+                <img src="C:\Users\admin\Downloads\web image.jpeg" width="130" height="145" alt="">
             </div>
             <div class="id">
                 <hr style="color: orange;">
             </div>
             <div class="author">
-               <p><b>KARTHIKEYAN</b></p>
+               <p><b>SUMAN</b></p>
             </div>
             <div class="publisher">
                 Packt>
@@ -138,3 +139,7 @@ Add images and other contents using CSS record a screenshot of it.
 </html>
 
 # Output:
+![Screenshot 2023-12-29 170728](https://github.com/sumanguna/Ex-06-Book-Cover-Design/assets/146914442/780eb312-3f9f-4167-9bf5-84bc147dec25)
+
+# Result:
+output got successfully.
